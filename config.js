@@ -65,7 +65,7 @@ global.openAiapi = ''   // Paste your API key here from Openai website
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['27685892751', iGhost', true] //Replace your number with your name
+  ['27685892751', 'iGhost', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
